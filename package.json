@@ -1,0 +1,23 @@
+{
+  "name": "10-svglabpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaynefw/10-svglabpro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaynefw/10-svglabpro/issues"
+  },
+  "homepage": "https://github.com/shaynefw/10-svglabpro#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
